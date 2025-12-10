@@ -110,7 +110,7 @@ SISTEMA_INVENTARIO/
 ```bash
 # al final cuando todos temrines de subir su parte del proyecto se hace el merge
 # el merge se hace en la rama main
-    git merge lizarzaburu/models
+    git merge Lizarzaburu/models
     git merge Pascacio/repositories
     git merge Mallma/utils
     git merge checkout Tantavilca/tests
@@ -151,7 +151,7 @@ git add .
 git commit -m "Descripción de lo que hiciste"
 ```
 
-### 6. Subir Cambios
+### 6. Subir Cambio
 
 ```bash
 git push origin [NOMBRE-DE-TU-RAMA]
